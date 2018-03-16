@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Settings"
+        android:orderInCategory="1"
+        android:title="@string/item1"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/myaudio"
+        android:orderInCategory="1"
+        android:title="@string/myaudio"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/myvideo"
+        android:orderInCategory="1"
+        android:title="@string/myvideo"
+        app:showAsAction="never"/>
+    <group
+        android:id="@+id/group1">
+    <item
+        android:id="@+id/svideo"
+        android:orderInCategory="1"
+        android:title="@string/svideo"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/saudio"
+        android:orderInCategory="1"
+        android:title="@string/saudio"
+        app:showAsAction="never"/>
+    </group>
+</menu>

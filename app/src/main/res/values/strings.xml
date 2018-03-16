@@ -3,4 +3,11 @@
     <string name="Java">Java</string>
     <string name="Android">Android</string>
     <string name="WhereIsDay">Where is day ?</string>
+    <string name="ExpImageView">Не найдено ImageView</string>
+    <string name="item1">Settings</string>
+    <string name="myaudio">Audio</string>
+    <string name="myvideo">Video</string>
+    <string name="svideo">Secret Video</string>
+    <string name="saudio">Secret Audio</string>
+    <string name="checkbox">Секретное меню</string>
 </resources>
