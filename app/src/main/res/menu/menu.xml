@@ -28,6 +28,6 @@
         android:id="@+id/saudio"
         android:orderInCategory="1"
         android:title="@string/saudio"
-        app:showAsAction="never"/>
+        app:showAsAction="never" />
     </group>
 </menu>

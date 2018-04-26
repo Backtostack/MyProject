@@ -10,4 +10,6 @@
     <string name="svideo">Secret Video</string>
     <string name="saudio">Secret Audio</string>
     <string name="checkbox">Секретное меню</string>
+    <string name="Anim">Анимация кнопок и текста</string>
+    <string name="Act">Другие активити доступны</string>
 </resources>
